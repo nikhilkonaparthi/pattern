@@ -17,6 +17,6 @@ Third Inner Loop: Prints numbers in descending order from the current row number
 Step 4: Verify the Correctness of the Generated Pattern
 To verify the correctness, we can run the code and check the output. 
 
-You can adjust the value of 'n' to generate different sizes of the pyramid pattern. 
+we can adjust the value of 'n' to generate different sizes of the pyramid pattern. 
 This code ensures that the pattern is printed correctly by aligning the numbers symmetrically
 around the center.
